@@ -1,0 +1,10 @@
+.DS_Store
+
+## User settings
+xcuserdata/
+
+## Schemes
+xcschemes/
+
+## CocoaPods
+Pods/

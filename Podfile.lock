@@ -1,0 +1,16 @@
+PODS:
+  - OAuthSwift (2.1.0)
+
+DEPENDENCIES:
+  - OAuthSwift (~> 2.1.0)
+
+SPEC REPOS:
+  trunk:
+    - OAuthSwift
+
+SPEC CHECKSUMS:
+  OAuthSwift: ab1675598273e04355e0282459c328e65c9ddacd
+
+PODFILE CHECKSUM: 0b0ca8e1954f2da6c291ff1fe6d8382630b9986d
+
+COCOAPODS: 1.8.4
